@@ -1,0 +1,59 @@
+# Remove apps (uncomment a line to remove the app)
+# CMAccount               # Remove CM Account
+# CMAudioFX               # Remove CM AudioFX
+# CMBugReport             # Remove CM Bug Report
+# CMFileManager           # Remove CM File Manager
+# CMMusic                 # Remove CM Music
+# CMScreenCast            # Remove CM ScreenCast
+# CMSetupWizard           # Remove CM Setup Wizard (see Notes for CMSetupWizard)
+# CMUpdater               # Remove CM Updater
+# CMWallpapers            # Remove CM Wallpapers
+# CMWeatherProvider       # Remove CM Weather Underground
+
+# DashClock               # Remove DashClock Widget (found in certain ROMs)
+# Hexo                    # Remove Hexo Libre CM Theme
+# LRecorder               # Remove LineageOS Recorder
+# LSetupWizard            # Remove LineageOS Setup Wizard
+# LUpdater                # Remove LineageOS Updater
+# Logcat                  # Remove OmniROM MatLog
+# OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
+
+# BasicDreams             # Remove Basic Dreams Wallpaper
+# Galaxy                  # Remove Galaxy (also known as BlackHole) Wallpaper
+# HoloSpiral              # Remove Holo Spiral Wallpaper
+# NoiseField              # Remove Noise Field Wallpaper
+# Phasebeam               # Remove Phasebeam Wallpaper
+# PhotoPhase              # Remove Photo Phase Wallpaper
+# PhotoTable              # Remove Photo Table Wallpaper
+
+ Browser                 # Remove Stock Browser
+ CalculatorStock         # Remove Stock Calculator (automatically removed when Google Calculator is installed)
+ CalendarStock           # Remove Stock Calendar (automatically removed when Google Calendar is installed)
+ CameraStock             # Remove Stock Camera (Including CAF's camera application, Snap)
+ ClockStock              # Remove Stock Desk Clock (automatically removed when Google Clock is installed)
+ Email                   # Remove Stock Email Client
+# ExchangeStock           # Remove Stock Exchange Services (automatically removed when Google Exchange Services is installed)
+# FMRadio                 # Remove Stock FM Radio (not found on all devices or ROMs)
+ Gallery                 # Remove Stock Gallery (automatically removed when Google Photos is installed)
+# KeyboardStock           # Remove Stock Keyboard (automatically removed when Google Keyboard is installed)
+# Launcher                # Remove Stock Launcher (removes most commonly named launchers)
+# LiveWallpapers          # Remove Stock Live Wallpapers
+# LockClock               # Remove Stock Lockscreen Clock Widget
+ MMS                     # Remove Stock SMS (automatically removed if Android Messages is installed)
+# MzFileManager           # Remove Stock FlymeOS File Manager
+# MzPay                   # Remove Stock FlymeOS Pay system (this service is only available in China)
+# MzSetupWizard           # Remove Stock FlymeOS SetupWizard
+# MzUpdater               # Remove Stock FlymeOS Updater
+# MzWeather               # Remove Stock FlymeOS Weather (this service is only available in China)
+# PicoTTS                 # Remove Stock PicoTTS
+# PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
+# SimToolKit              # Remove Stock SimToolKit
+ SoundRecorder           # Remove Stock Sound Recorder
+ StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
+# Studio                  # Remove Stock Movie Studio
+# SykoPath                # Remove SykoPath Layers Manager (found in certain ROMs)
+# TagStock                # Remove Stock NFC Tags (automatically removed when Google NFC Tags is installed)
+ Terminal                # Remove Stock Terminal
+# Themes                  # Remove Stock Theme Engine (will break the Settings Entry and can cause unexpected reboots on some ROMs)
+# VisualizationWallpapers # Remove Stock Visualization Wallpapers
+# WhisperPush             # Remove Stock WhisperPush support
