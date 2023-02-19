@@ -47,13 +47,13 @@
 # MzWeather               # Remove Stock FlymeOS Weather (this service is only available in China)
 # PicoTTS                 # Remove Stock PicoTTS
 # PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
-# SimToolKit              # Remove Stock SimToolKit
+ SimToolKit              # Remove Stock SimToolKit
  SoundRecorder           # Remove Stock Sound Recorder
- StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
+# StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
 # Studio                  # Remove Stock Movie Studio
 # SykoPath                # Remove SykoPath Layers Manager (found in certain ROMs)
 # TagStock                # Remove Stock NFC Tags (automatically removed when Google NFC Tags is installed)
- Terminal                # Remove Stock Terminal
+# Terminal                # Remove Stock Terminal
 # Themes                  # Remove Stock Theme Engine (will break the Settings Entry and can cause unexpected reboots on some ROMs)
 # VisualizationWallpapers # Remove Stock Visualization Wallpapers
 # WhisperPush             # Remove Stock WhisperPush support
