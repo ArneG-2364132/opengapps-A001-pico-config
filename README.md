@@ -1,0 +1,1 @@
+# opengapps-A001-pico-config
